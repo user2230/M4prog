@@ -1,0 +1,1 @@
+INSERT INTO `huisdieren` (`id`, `naam`, `eigenaar`, `typedier`, `leeftijd`, `geboortedatum`) VALUES (NULL, 'nike', 'Othman', 'Hond', '3', '2025-05-28');
